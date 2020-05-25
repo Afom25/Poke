@@ -1,0 +1,22 @@
+.PokeCard {
+    border:2px solid magenta;
+    width: 300px;
+    
+    padding: 16px;
+    margin: 1rem;
+    box-shadow:7px 10px 12px -5px rgba(0, 0green, 0blue,0.1
+     alpha);
+     text-align: center;
+     background-color: blanchedalmond;
+}
+h3
+{
+    font-family: 'Piedra', cursive;
+}
+h5
+{
+    font-family: 'Permanent Marker', cursive;
+}
+p{
+    
+}

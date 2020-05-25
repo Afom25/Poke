@@ -1,0 +1,30 @@
+.Pokedex-cards {
+
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+h2{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 75px;
+}
+.poke2{
+    background: whitesmoke;
+    width: 300px;
+    text-align: center;
+    margin-left: 400px;
+    
+}
+.Pokedex-winner {
+    color: #4caf50;
+}
+.Pokedex-loser {
+    color:#e91e63;
+}
+.hr{
+    color:white;
+}
+p{
+    font-family: 'Fredoka One', cursive;
+}
